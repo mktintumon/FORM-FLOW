@@ -1,0 +1,21 @@
+.dibba{
+  box-shadow: 4px 4px 4px 4px gray; 
+  background-color: #c9d6ff;
+  border-radius: 1rem;  
+}
+
+.box{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap:4rem;
+  margin-top: 4rem;
+  
+
+  }
+  
+  .paragraph{
+    text-align: justify;
+  }
